@@ -1,0 +1,48 @@
+body{
+  background-image: url("../img/fondo.jpg");
+  text-align: center;
+}
+
+h1{
+  font-family: 'Fontdiner Swanky', cursive;
+  font-size: 60px;
+  color: #2a5dc2;
+}
+
+.animal{
+  width: 300px;
+  height: 300px;
+  margin: 0;
+}
+
+.blanco-negro{
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+}
+
+.invertir-colores{
+  filter: invert(.8);
+  -webkit-filter: invert(.8);
+}
+
+.sepia{
+  filter: sepia(1);
+  -webkit-filter: sepia(1);
+}
+
+.select {
+  padding-top: 10px;
+  text-align: center;
+}
+
+#select {
+  padding: 8px 8px;
+  background-color: #1dc4e8;
+  color: #ffffff;
+  border-color: #2a5dc2;
+  font-size: 22px;
+}
+
+img{
+  padding: 10px;
+}
