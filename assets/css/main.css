@@ -21,8 +21,6 @@ h1{
   -moz-filter: grayscale(100%);
   -o-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-
 }
 
 .invertir-colores{
@@ -31,7 +29,6 @@ h1{
   -moz-filter: invert(.8);
   -o-filter: invert(.8);
   -ms-filter: invert(.8);
-  -moz-filter: invert(.8);
 }
 
 .sepia{
@@ -40,7 +37,6 @@ h1{
   -moz-filter: sepia(1);
   -o-filter: sepia(1);
   -ms-filter: sepia(1);
-  -moz-filter: sepia(1);
 }
 
 .select {
